@@ -1,0 +1,25 @@
+h1 {
+background-color: blue;
+color: white;
+margin: auto;
+width: 80%;
+border-color: black;
+border-radius: 10px;
+text-align: center;
+font-size: 60px;
+}
+
+div {
+text-align: center;
+}
+
+ul {
+background-color: rgb(246, 208, 138);
+display: inline-block;
+width: 30%;
+left: auto;
+padding: 10px;
+line-height: 100px;
+font-size: 40px;
+width: 70%;
+}

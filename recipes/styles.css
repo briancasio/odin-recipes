@@ -1,12 +1,17 @@
+html {
+background-color: #E6C79C;
+
+}
+
 h1, h2 {
-background-color: yellow;
+background-color: #68B0AB;
 padding: 20px;
-margin: 10px;
+
 }
 
 .h2 {
-background-color: brown;
-color: white;
+background-color: #BC8DA0;
+color: black;
 font-size: 24px;
 }
 

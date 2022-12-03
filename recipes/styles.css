@@ -6,6 +6,7 @@ background-color: #E6C79C;
 h1, h2 {
 background-color: #68B0AB;
 padding: 20px;
+    border: solid white 1px
 
 }
 
@@ -21,4 +22,8 @@ line-height: 30px;
 
 div {
 text-align: justify;
+}
+
+.image {
+max-width: 100%;
 }

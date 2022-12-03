@@ -2,18 +2,24 @@ html {
 background-color: #E6C79C;
 }
 
-h1 {
+body {
+justify-content: center;
+}
+
+.header {
 background-color: #BC8DA0;
 color: white;
 margin: 20px;
-width: auto;
 border-color: black;
 border-radius: 10px;
+min-height: 10vh;
 display: flex;
 align-items: center;
 justify-content: center;
+flex: 1;
 font-size: 60px;
 border: solid white 1px;
+text-align: center;
 }
 
 div {
@@ -24,7 +30,7 @@ justify-content: center;
 
 }
 
-.unordered {
+.container {
 background-color: #68B0AB;
 font-size: 35px;
 width: 80%;
@@ -33,7 +39,7 @@ flex: 1;
 margin: 40px;
 margin-top: auto;
 border: solid white 1px;
-
+flex-wrap: wrap;
 }
 
 .hover--over {
@@ -53,4 +59,6 @@ background-color: #FFFAFB;
 
 #inline {
 gap: 8px;
+border: solid white 1px;
+margin: 10px;
 }
